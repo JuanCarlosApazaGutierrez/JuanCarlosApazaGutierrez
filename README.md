@@ -31,9 +31,5 @@ Como Ingeniero de Sistemas, priorizo el diseño sobre la improvisación. Me espe
 
 ---
 
-### 📊 Mis Estadísticas
-![Estadísticas de Juan Carlos](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=radical)
-
----
 
  
